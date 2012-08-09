@@ -3,8 +3,8 @@ CompanyNameGenerator™: A Company Name Generator
 
 Generate names for English tech companies with class.
 
-Why Should I Use PHPClassNameGenerator™?
-----------------------------------------
+Why Should I Use CompanyNameGenerator™?
+---------------------------------------
 
 This library will help you if:
 
