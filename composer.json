@@ -1,6 +1,6 @@
 {
-  "name": "fzaninotto/CompanyNameGenerator",
-  "description": "Generate names for English tech companies with class.",
+  "name": "fzaninotto/company-name-generator",
+  "description": "Generate names for English tech companies with class",
   "homepage": "https://github.com/fzaninotto/CompanyNameGenerator",
   "version": "1.0.0",
   "license": "MIT",
