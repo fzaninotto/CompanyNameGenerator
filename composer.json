@@ -9,7 +9,7 @@
   ],
   "require": {
       "php": ">=5.3.0",
-      "fzaninotto/faker": "dev-master"
+      "fzaninotto/faker": "~1.4"
   },
   "autoload": {
       "psr-0": { "CompanyNameGenerator": "src" }
